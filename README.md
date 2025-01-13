@@ -20,3 +20,8 @@ This assignment <a href="https://www.theodinproject.com/lessons/foundations-reci
 8. Add two more recipes with identical page structures to the recipe page you’ve already created
 
 ## Skills learnt 
+
+
+- index creation 
+- GIT commands
+- creating links and boilerplate
